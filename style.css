@@ -3,3 +3,9 @@ p  {
     font-size: 24px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+h1 {
+    font-weight: 100;
+    font-display: none;
+    font-family: fantasy;
+}
