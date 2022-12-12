@@ -9,3 +9,7 @@ h1 {
     font-display: none;
     font-family: fantasy;
 }
+
+h3 {
+    font-weight: 200;
+}
